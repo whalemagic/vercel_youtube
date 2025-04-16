@@ -1,0 +1,21 @@
+{
+  "headers": [
+    {
+      "source": "/api/youtube",
+      "headers": [
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "https://songreveal-fbc6c.web.app"
+        },
+        {
+          "key": "Access-Control-Allow-Methods",
+          "value": "GET,OPTIONS"
+        },
+        {
+          "key": "Access-Control-Allow-Headers",
+          "value": "Content-Type, Accept"
+        }
+      ]
+    }
+  ]
+} 
